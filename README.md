@@ -1,5 +1,6 @@
 # Handwritten-Characters-CVAE
-Handwritten character generator using Conditional VAE.
+Handwritten character generator using Conditional VAE.  
+Created as an imporvement to the Handwritten Character VAE project, this one creates images of handwritten characters of better quality.
 
 ## Dataset
 
